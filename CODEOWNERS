@@ -1,0 +1,5 @@
+# Mặc định: trưởng nhóm review
+* @truong-nhom
+# Theo thư mục
+/backend/ @thanhvien-a @thanhvien-b
+/frontend/ @thanhvien-c
